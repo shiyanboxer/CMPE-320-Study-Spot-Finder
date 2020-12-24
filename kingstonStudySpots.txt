@@ -1,0 +1,9 @@
+CRAVE Coffee House	4	44.230220	-76.481591	indoor	true	true	false	20	0
+Sprigner Market Square	10	44.230195	-76.481119	outdoor	false	false	false	30	5
+Kingston Coffee House	3	44.231922	-76.484764	both	true	true	false	12	1
+ARC	7	44.229883	-76.494269	indoor	true	true	false	45	37
+Team Room	5	44.228135	-76.492778	both	true	true	false	12	4
+NORTHSIDE espresso+kitchen	6	44.2326	76.4884	indoor	true	true	false	30	8
+Juniper Cafe	4	44.2204	76.5057	both	true	true	false	25	6
+Geneva Crepe Bistro	7	44.2327	76.4889	both	true	true	false	22	6
+The Yellow Deli	8	44.2377	76.5030	indoor	false	true	false	15	4

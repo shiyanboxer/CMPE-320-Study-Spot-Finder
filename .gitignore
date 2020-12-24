@@ -1,0 +1,6 @@
+*.autotools
+*.cproject
+*.project
+*.xml
+*LoginPage.pro.user
+*.opendb
